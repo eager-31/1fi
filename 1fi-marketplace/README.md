@@ -11,7 +11,7 @@ serves products and computed no-cost / low-cost EMI plans.
 
 ## Quick start
 
-Open two terminals.
+Open two terminal.
 
 ### 1. API
 
